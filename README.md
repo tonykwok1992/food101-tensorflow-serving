@@ -12,4 +12,5 @@ docker-compose up --build
 Go to your browswer: http://localhost:5000 and upload the photo
 
 Output = (class, score)
+
 <img src="docs/big_mac_web_demo.jpg" width="500"> 
