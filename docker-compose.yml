@@ -1,0 +1,9 @@
+services:
+  tensorflow-serving:
+    build: 
+      context: ./tensorflow-serving
+  flask-web-server:
+    build: 
+      context: ./flask-web-server
+    ports:
+      - '5000:5000'
