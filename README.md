@@ -13,4 +13,5 @@ Go to your browswer: http://localhost:5000 and upload the photo
 
 Output = (class, score)
 
-<img src="docs/big_mac_web_demo.jpg" width="500"> 
+<img src="docs/big_mac_web_demo.jpg" width="400">  <img src="docs/beef_tartare_web_demo.jpg" width="400"> 
+
